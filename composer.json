@@ -3,7 +3,7 @@
 	"description": "Gend is a smarty PHP micro Framework Compat",
 	"require": {
 		"php": "^7.2",
-		"gend/gend-framework":"dev-master",
+		"gend/gend-framework":"v0.0.1",
 		"monolog/monolog": "^1.17"
 	}
 }
